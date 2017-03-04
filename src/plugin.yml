@@ -1,0 +1,8 @@
+name: AutoSave
+author: DerEnderKeks
+version: 0.0.1
+main: me.derenderkeks.autosave.AutoSave
+
+permissions:
+  autosave.info:
+    default: false
